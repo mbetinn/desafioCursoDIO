@@ -23,7 +23,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
   - Os valores dos saldos devem ser alterados, de acordo com o valor informado para depósito
   - Apenas contas com o status true e saldo (balance) maior que o valor solicitado podem fazer saques
 
-[ ] Implementar o método de empréstimo (getLoan) na classe CompanyAccount
+[ok] Implementar o método de empréstimo (getLoan) na classe CompanyAccount
   - Os valores do saldos deve ser acrescidos, de acordo com o valor informado para empréstimo
   - Apenas contas com o status true podem fazer empréstimo
 
@@ -35,4 +35,4 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 [ok] Os atributos name e accountNumber não podem ser alterados internamente ou externamente
 
-[ ] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
+[ok] Criar instancias para cada um dos tipos de conta no app.ts e executar os métodos possíveis.
